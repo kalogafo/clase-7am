@@ -1,0 +1,20 @@
+body {
+  font-family: system-ui;
+  background: #9342f5;
+  color: #49d4e3;
+  text-align: center;
+}
+h1 {
+  color:#e0e349;
+  background-color: white;
+  font-family: 
+} 
+.p2 { 
+  background-color:#4960e3;
+  color:white;
+}
+a {
+  background-color:white;
+  color: blue;
+  font: bold;
+}
